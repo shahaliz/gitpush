@@ -8,5 +8,8 @@ public class git {
 		System.out.println("Print3");
 		System.out.println("print 4");
 		System.out.println("print 5");
+		System.out.println("A");
+		System.out.println("B");
+		System.out.println("C");
 	}
 }
