@@ -6,5 +6,7 @@ public class git {
 		System.out.println("Print");
 		System.out.println("Print 2");
 		System.out.println("Print3");
+		System.out.println("print 4");
+		System.out.println("print 5");
 	}
 }
